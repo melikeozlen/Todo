@@ -6,9 +6,8 @@ Live URL: https://melikeozlen.github.io/Todo/
 
 
 
-Add Todo            |  Delete Todo
-:-------------------------:|:-------------------------:
+# Add Todo  
 
-![image](https://user-images.githubusercontent.com/44196940/166987266-4026edab-9379-4a97-9d35-5863111e73f7.png)
-
-![image](https://user-images.githubusercontent.com/44196940/166987016-782915f9-b0ba-442b-8fe5-48efa5c9a34f.png)
+![image](https://user-images.githubusercontent.com/44196940/166987461-2a955361-8c7c-4065-80be-5240e673c616.png)
+# Delete Todo
+![image](https://user-images.githubusercontent.com/44196940/166987627-449044d3-9930-4713-bd18-5f28acfd878c.png)
